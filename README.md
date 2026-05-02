@@ -80,6 +80,10 @@ The main goal of this dashboard is to:
 * Enables teams to **reduce delays** by focusing on major problem areas
 * Improves **customer satisfaction** through better service reliability
 
+
+<img width="1308" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/7789edfa-fe02-43ea-b1db-510159db29f5" />
+
+
 ---
 
 📊 This dashboard turns raw railway data into clear insights, helping stakeholders make smarter and faster decisions.
